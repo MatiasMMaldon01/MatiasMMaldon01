@@ -15,7 +15,7 @@ class Program
             MatiasMM.Name = "Matias Martinez Maldonado";
             MatiasMM.Age = 21;
             MatiasMM.Expertise = ".Net Developer";
-            MatiasMM.Inspiration = "I am passionate about technology and all the tools it offers us to improve people's lives.";
+            MatiasMM.Inspiration = "Technology and all the tools it offers us to improve people's lives.";
 
             MatiasMM.IntroduceMyself();
         }
@@ -35,7 +35,7 @@ class Program
                 Console.WriteLine($"Hello, my name is {Name}.");
                 Console.WriteLine($"I am {Age} years old.");
                 Console.WriteLine($"I am an {Expertise}.");
-                Console.WriteLine(Inspiration);
+                Console.WriteLine($"I am passionate about {Inspiration}.");
             }
         }
     }
