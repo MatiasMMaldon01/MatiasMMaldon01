@@ -1,7 +1,7 @@
 <h1> Hi I'm Matias Martinez Maldonado   <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"  height='50px' style="margin-left: 5px"></h1>
 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=&weight=600&pause=1000&color=F7E400&width=435&height=70&lines=.Net+Developer+Jr;Backend" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=&weight=600&pause=1000&color=F7E400&width=435&height=70&lines=Backend+Developer+Jr;.NET+Framework" alt="Typing SVG" /></a>
 
 ```C#
 using System;
